@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dakshmehta1503
 - 👀 I’m interested in ML, SWIFT UI
-- 🌱 I’m currently learning C/CPP
+- 🌱 I’m currently learning in Btech in CSE in VIT Vellore 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
